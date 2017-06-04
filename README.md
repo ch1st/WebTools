@@ -8,8 +8,8 @@
 
 
 使用命令 python CheckUrl.py *.txt
-*.txt[为需要检测域名的文本]
-程序运行完成结果保存为 *_success.txt
+<br>*.txt[为需要检测域名的文本]
+<br>程序运行完成结果保存为 *_success.txt
 
 ## 案例
 ![result1](result1.jpg)

@@ -15,3 +15,6 @@
 ![result1](result1.jpg)
 ![result2](result2.jpg)
 
+# BuTian.py
+爬取补天公益SRC厂商所有域名
+http://blog.csdn.net/pythonniu/article/details/76601908
